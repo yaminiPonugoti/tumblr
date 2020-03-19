@@ -11,4 +11,4 @@ tumblr is an iOS app that allows users to view tumblr posts.
 
 ### App Walkthough GIF
 
-http://i.imgur.com/Xsbgslj.gif
+![Image of tumblr gif](http://i.imgur.com/Xsbgslj.gif)
